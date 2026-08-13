@@ -8,11 +8,24 @@
 - :writing_hand: Current teaching assistant scholarship holder of the <a href="https://prg.usp.br/alunos-2/programas-especiais-2/programa-de-estimulo-ao-ensino-de-graduacao-peeg/">PEEG project</a>
 
 ## :hammer_and_wrench: Technologies and Tools I use:
-![Static Badge](https://img.shields.io/badge/C-%238899AC?style=flat&logo=c&color=%238899AC) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus) ![Static Badge](https://img.shields.io/badge/Python-%23265078?style=flat&logo=python) ![Static Badge](https://img.shields.io/badge/Bash-%23336916?style=flat&logo=gnubash) ![Static Badge](https://img.shields.io/badge/PL%2FpgSQL-%23263E87?style=flat&logo=postgresql) ![Static Badge](https://img.shields.io/badge/SQL-%23E3000F?style=flat) ![Static Badge](https://img.shields.io/badge/HTML-%2391331A?style=flat&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat&logo=css) <br>
-![Static Badge](https://img.shields.io/badge/pgAdmin-%23263E87?style=flat&logo=postgresql) ![Static Badge](https://img.shields.io/badge/SQL%20Developer-%23C74634?style=flat) 
+![Static Badge](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=flat&logo=gnubash&logoColor=white) ![Static Badge](https://img.shields.io/badge/PL%2FpgSQL-%234169E1?style=flat&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQL-%23E3000F?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat&logo=css&logoColor=white) <br>
+![Static Badge](https://img.shields.io/badge/VSCode-%2324ACF2?style=flat) ![Static Badge](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=flat&logo=Arduino&logoColor=white) ![Static Badge](https://img.shields.io/badge/pgAdmin-%234169E1?style=flat&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQL%20Developer-%23C74634?style=flat) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) <br>
+![Static Badge](https://img.shields.io/badge/ESP32-%23E7352C?style=flat&logo=espressif&logoColor=white) ![Static Badge](https://img.shields.io/badge/Raspberry%20Pi-%23A22846?style=flat&logo=raspberrypi&logoColor=white) ![Static Badge](https://img.shields.io/badge/Arduino%20Nano-%2300979D.svg?style=flat&logo=Arduino&logoColor=white)
+
+## :open_file_folder: Some of my projects:
+
+### <a href="https://github.com/leotlb/Grad-Projects/tree/main/SQL/Postgre">F1 DB</a>
+![Static Badge](https://img.shields.io/badge/SQL-%23E3000F?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/PL%2FpgSQL-%234169E1?style=flat&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/pgAdmin-%234169E1?style=flat&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Tkinter-%233776AB?style=flat) 
+
+- F1 Database project using the old Ergast API Developer dataset.
+- Designed and implemented end-to-end, from data modelling and schema design through data ingestion, query development and optimisation, indexing, database automation (scripts and triggers) and DAL development.
 
 
+### <a href="https://github.com/leotlb/Grad-Projects/tree/main/Cpp/Protocol%20simulation%20for%20smart%20greenhouse">Smart Greenhouse Sim</a>
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/Winsock-%2300A4EF?style=flat&logoColor=white)
 
+- Simulation of communication between actors in a smart Greenhouse.
+- Self designed protocol relayed concurrently through the use of Winsock.
 
 
 
